@@ -1,23 +1,32 @@
-# Vimal Kumar D S — AI Systems Research & Engineering
+# Vimal Kumar D S — Engineering Intelligence
 
 **Live portfolio:** https://vimalspaceton618-afk.github.io/Mr-Robot.github.io/
 
-A responsive, single-page portfolio built with **pure HTML, CSS and vanilla JavaScript**. No React, build step or frontend framework.
+A cinematic, responsive personal portfolio for AI systems research and engineering. Built with **pure HTML, CSS and vanilla JavaScript** — no React, frontend framework, package manager or build step.
 
-## Sections
-- Profile and engineering focus
-- AI architecture, cognition, agent systems and compute infrastructure
+## Design and interaction
+- Science-fiction research-lab visual direction with a custom orbital system illustration
+- Animated starfield, orbital motion and scroll-reveal transitions
+- Responsive navigation with accessible mobile controls
+- Interactive project filters
+- Selectable intelligence-stack map
+- Reduced-motion support, keyboard focus states and semantic landmarks
+- Search and social-sharing metadata
+
+## Portfolio content
+- Profile: Vimal Kumar D S, B.E. Mechanical Engineering student (expected 2028), Sri Sairam Engineering College, Chennai
+- Founder & CEO of Vertex
 - Projects: Vertex, Cortex, ADA v4.5 and ADA Workbench
 - ADA v4.5 research monograph and interactive architecture explorer
-- Technical toolkit with conservative proficiency labels
-- Education, internship and project experience
-- Contact links
+- Public ADA dataset repository
+- Technical toolkit, education, internship and SIH 2026 team-project experience
+- Email, LinkedIn and GitHub contact links
 
 ## Run locally
-Open `index.html` in a browser.
+Open `index.html` in any modern browser.
 
 ## Deploy
-GitHub Pages is configured to publish the repository root from the `main` branch. The entry point is `index.html`.
+GitHub Pages publishes the repository root from the `main` branch. The entry point is `index.html`.
 
-## Notes
-Project-reported architecture specifications and implementation metrics are labeled as research information, not independent benchmark claims. Skill labels describe current practice and learning focus, not formal certifications.
+## Accuracy notes
+Skill groupings describe current hands-on areas and learning tracks, not formal certifications or expert-level proficiency. ADA architecture details are project-reported research specifications and are not represented as independently benchmark-validated performance claims. The ADA Workbench repository link is not published here because a verified public repository URL was not available.
